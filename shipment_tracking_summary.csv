@@ -1,0 +1,4 @@
+metric,days_taken_for_delivery,delivery_attempts
+mean,3.0,1.0
+median,3.0,1.0
+mode,3.0,1.0
