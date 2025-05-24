@@ -28,15 +28,7 @@ You're working for a logistics company that helps deliver online orders from a s
 
 ---
 
-## 📁 Folder Structure
 
-├── data/
-│ └── shipment_data.json # Raw dataset
-├── output/
-│ ├── flattened_shipments.csv # Final flattened dataset
-│ └── shipment_summary.csv # Summary statistics
-├── shipment_analysis.ipynb # Jupyter notebook with full code
-└── README.md # Project documentation
 
 ## 📊 Visualizations
 The notebook also includes several useful visualizations such as:
